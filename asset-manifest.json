@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.ec65b1b4.chunk.css",
-    "main.js": "/static/js/main.9823db35.chunk.js",
-    "main.js.map": "/static/js/main.9823db35.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7f862b5d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7f862b5d.js.map",
-    "static/js/2.5738c6fe.chunk.js": "/static/js/2.5738c6fe.chunk.js",
-    "static/js/2.5738c6fe.chunk.js.map": "/static/js/2.5738c6fe.chunk.js.map",
-    "static/js/3.066df550.chunk.js": "/static/js/3.066df550.chunk.js",
-    "static/js/3.066df550.chunk.js.map": "/static/js/3.066df550.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.ec65b1b4.chunk.css.map": "/static/css/main.ec65b1b4.chunk.css.map",
-    "static/js/2.5738c6fe.chunk.js.LICENSE.txt": "/static/js/2.5738c6fe.chunk.js.LICENSE.txt",
-    "static/media/github.c04d8d1c.png": "/static/media/github.c04d8d1c.png",
-    "static/media/containt.css": "/static/media/image-soccer-team.24ac0872.jpg",
-    "static/media/headers.css": "/static/media/image-hero.8ce1c624.svg",
-    "static/media/image-interactive.1d330522.jpg": "/static/media/image-interactive.1d330522.jpg",
-    "static/media/logo.5b4e652a.svg": "/static/media/logo.5b4e652a.svg"
+    "main.css": "/loopstudios-landing-page/static/css/main.4e458279.chunk.css",
+    "main.js": "/loopstudios-landing-page/static/js/main.9823db35.chunk.js",
+    "main.js.map": "/loopstudios-landing-page/static/js/main.9823db35.chunk.js.map",
+    "runtime-main.js": "/loopstudios-landing-page/static/js/runtime-main.ffcb92b1.js",
+    "runtime-main.js.map": "/loopstudios-landing-page/static/js/runtime-main.ffcb92b1.js.map",
+    "static/js/2.5738c6fe.chunk.js": "/loopstudios-landing-page/static/js/2.5738c6fe.chunk.js",
+    "static/js/2.5738c6fe.chunk.js.map": "/loopstudios-landing-page/static/js/2.5738c6fe.chunk.js.map",
+    "static/js/3.066df550.chunk.js": "/loopstudios-landing-page/static/js/3.066df550.chunk.js",
+    "static/js/3.066df550.chunk.js.map": "/loopstudios-landing-page/static/js/3.066df550.chunk.js.map",
+    "index.html": "/loopstudios-landing-page/index.html",
+    "static/css/main.4e458279.chunk.css.map": "/loopstudios-landing-page/static/css/main.4e458279.chunk.css.map",
+    "static/js/2.5738c6fe.chunk.js.LICENSE.txt": "/loopstudios-landing-page/static/js/2.5738c6fe.chunk.js.LICENSE.txt",
+    "static/media/github.c04d8d1c.png": "/loopstudios-landing-page/static/media/github.c04d8d1c.png",
+    "static/media/containt.css": "/loopstudios-landing-page/static/media/image-soccer-team.24ac0872.jpg",
+    "static/media/headers.css": "/loopstudios-landing-page/static/media/image-hero.8ce1c624.svg",
+    "static/media/image-interactive.1d330522.jpg": "/loopstudios-landing-page/static/media/image-interactive.1d330522.jpg",
+    "static/media/logo.5b4e652a.svg": "/loopstudios-landing-page/static/media/logo.5b4e652a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7f862b5d.js",
+    "static/js/runtime-main.ffcb92b1.js",
     "static/js/2.5738c6fe.chunk.js",
-    "static/css/main.ec65b1b4.chunk.css",
+    "static/css/main.4e458279.chunk.css",
     "static/js/main.9823db35.chunk.js"
   ]
 }
