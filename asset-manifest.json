@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/loopstudios-landing-page/static/css/main.4e458279.chunk.css",
-    "main.js": "/loopstudios-landing-page/static/js/main.9823db35.chunk.js",
-    "main.js.map": "/loopstudios-landing-page/static/js/main.9823db35.chunk.js.map",
+    "main.css": "/loopstudios-landing-page/static/css/main.59c2209f.chunk.css",
+    "main.js": "/loopstudios-landing-page/static/js/main.3d1796f9.chunk.js",
+    "main.js.map": "/loopstudios-landing-page/static/js/main.3d1796f9.chunk.js.map",
     "runtime-main.js": "/loopstudios-landing-page/static/js/runtime-main.ffcb92b1.js",
     "runtime-main.js.map": "/loopstudios-landing-page/static/js/runtime-main.ffcb92b1.js.map",
     "static/js/2.5738c6fe.chunk.js": "/loopstudios-landing-page/static/js/2.5738c6fe.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.066df550.chunk.js": "/loopstudios-landing-page/static/js/3.066df550.chunk.js",
     "static/js/3.066df550.chunk.js.map": "/loopstudios-landing-page/static/js/3.066df550.chunk.js.map",
     "index.html": "/loopstudios-landing-page/index.html",
-    "static/css/main.4e458279.chunk.css.map": "/loopstudios-landing-page/static/css/main.4e458279.chunk.css.map",
+    "static/css/main.59c2209f.chunk.css.map": "/loopstudios-landing-page/static/css/main.59c2209f.chunk.css.map",
     "static/js/2.5738c6fe.chunk.js.LICENSE.txt": "/loopstudios-landing-page/static/js/2.5738c6fe.chunk.js.LICENSE.txt",
     "static/media/github.c04d8d1c.png": "/loopstudios-landing-page/static/media/github.c04d8d1c.png",
     "static/media/containt.css": "/loopstudios-landing-page/static/media/image-soccer-team.24ac0872.jpg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.ffcb92b1.js",
     "static/js/2.5738c6fe.chunk.js",
-    "static/css/main.4e458279.chunk.css",
-    "static/js/main.9823db35.chunk.js"
+    "static/css/main.59c2209f.chunk.css",
+    "static/js/main.3d1796f9.chunk.js"
   ]
 }
