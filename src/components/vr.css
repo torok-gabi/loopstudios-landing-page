@@ -1,0 +1,49 @@
+.vr-container {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.vr-img {
+    max-width: 85vw;
+    margin: 5rem 0;
+}
+
+.vr-right {
+    max-width: 75vw;
+    padding: 0 1rem;
+}
+
+.subtitle {
+    font-family: 'Alata', sans-serif;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+    color: hsl(0, 0%, 41%);
+    text-align: center;
+}
+
+.text {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+    line-height: 1.2;
+}
+
+@media only screen and (min-width: 1200px) {
+    .vr-container {
+        max-width: 90vw;
+        display: flex;
+        flex-direction: row;
+        margin: 0 auto;
+    }
+    .vr-right {
+        max-width: 50vw;
+        background-color: hsl(43, 75%, 88%);
+        margin-left: -8rem;
+        margin-top: 13rem;
+        padding: 4rem;
+    }
+}
